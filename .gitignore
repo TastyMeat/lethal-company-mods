@@ -1,1 +1,5 @@
-*.cfg
+*.log
+config/HDLethalCompany.cfg
+plugins/HDLethalCompany.dll
+plugins/HDLethalCompany/*
+*.dat
